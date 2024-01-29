@@ -1,0 +1,15 @@
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\bin\Debug\net6.0\Catalog.Application.deps.json
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\bin\Debug\net6.0\Catalog.Application.dll
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\bin\Debug\net6.0\Catalog.Application.pdb
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfoInputs.cache
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.AssemblyInfo.cs
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.csproj.CopyComplete
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.dll
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\refint\Catalog.Application.dll
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\Catalog.Application.pdb
+C:\Users\rahul\OneDrive\Desktop\.NET CORE PROJECTS AND LEARNINGS\MICRO-SERVICES\ECommerce-App\Services\Catalog\Catalog.Application\obj\Debug\net6.0\ref\Catalog.Application.dll
