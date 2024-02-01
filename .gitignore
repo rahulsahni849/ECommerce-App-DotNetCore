@@ -333,3 +333,4 @@ ASALocalRun/
 
 appsettings*.json
 .vs/
+Services/*/obj/
